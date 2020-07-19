@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+  background: linear-gradient(to right, #673ab7, #512da8);
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  color: #d3dbff;
+}
+
+.div-1 {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 25vh;
+}
+
+#btn,
+#input {
+  font-size: 1.6rem;
+  padding: 0.5rem;
+  font-family: sans-serif;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 10px;
+}
+
+#icon {
+  font-size: 6rem;
+  color: #f4cbb2;
+}
+
+ul {
+  text-decoration: none;
+}
